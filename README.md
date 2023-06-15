@@ -8,9 +8,15 @@ This page is the landing page for Horiseon company. This company strives to help
 
 This is a Screenshot of what the website looks like in its final form.
 
-<img src="./Assets/01-html-css-git-homework-demo.png">
+<img src="./01-html-css-git-homework-demo.png">
 
 # Link to Website
+
+This is the link to the fully function website.
+
+Link: https://cjfeagin33.github.io/Week-1-Challenge/
+
+Once in the browser, you can inspect the code by opening up the console. To do this, right click then prese Inspect.
 
 # Installation
 
