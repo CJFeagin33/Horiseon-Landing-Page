@@ -14,7 +14,7 @@ This is a Screenshot of what the website looks like in its final form.
 
 This is the link to the fully function website.
 
-Link: https://cjfeagin33.github.io/Week-1-Challenge/
+Link: https://cjfeagin33.github.io/Horiseon-Landing-Page/
 
 Once in the browser, you can inspect the code by opening up the console. To do this, right click then prese Inspect.
 
